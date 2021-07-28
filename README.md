@@ -1,4 +1,7 @@
 # Caesar Algorithm - Ciphering & Deciphering
+![python version](https://img.shields.io/static/v1?label=python&message=3.8&color=2196F3)
+![code size](https://img.shields.io/github/languages/code-size/hadiMh/ceasar_algorithm_cipher_and_deciphering?color=2196F3)
+![license](https://img.shields.io/static/v1?label=license&message=MIT&color=green)
 ### by M.Hadi Hajihosseini
 
 This is a simple program that can decode Ceasar ciphers.
@@ -7,7 +10,7 @@ You enter the cipher and it shows the potential plain texts sorted by the possib
 
 # Usage
 
-Just clone the app and use it :)
+Just clone the code and use it :)
 
 It is in pure python 3.8+
 
@@ -86,7 +89,7 @@ You can see that the code is showing the results sorted as the most possible ans
 So it found the plain text correctly.
 
 ## Notes:
-- This code accepts lowercase and uppercase characters.
+- This code accepts lowercase, uppercase and space characters.
 
 - This is a simple Decoder based on Caesar algorithm so it only accepts English letters and space.
 - Sometimes the result is not the first one but one of the first two or three if the text is very short due to small ammount of words
