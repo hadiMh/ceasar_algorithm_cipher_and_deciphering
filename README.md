@@ -24,15 +24,11 @@ Only the first approach sorts the results based on the possibility of correctnes
 
 ## Example
 
-For example this is a sample cipher:
-
-```
-gzch Gzihgnrrrdhmh
-```
+For example this is a sample cipher: ``` gzch Gzihgnrrrdhmh ```
 
 So we run the program to find the original text:
 
-```
+```zsh
 $ python3 decipher_caesar_with_fi.py
 
 You can enter a custom secret or use the default ones.
