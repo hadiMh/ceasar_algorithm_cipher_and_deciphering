@@ -43,9 +43,10 @@ Then in the prompt in the last line, enter the cipher text above (```Sghr hr sgd
 
 The result would be:
 
+### **See the first line**
+
 ```
  ------------------------------ 
-
 key:  1 | fi: 0.0694 | decipher: This is the cipher text hadi Hajihossseini
 key: 12 | fi: 0.06281 | decipher: Estd td esp ntaspc epie slot Slutszdddptyt
 key: 23 | fi: 0.06201 | decipher: Pdeo eo pda yeldan patp dwze Dwfedkoooaeje
